@@ -227,10 +227,10 @@ LIST HARGA SEWA BOTZ
 ▢ PERBULAN 15K
 ▢ PERMANEN 40K
 MINAT HIBUNGI OWNER
-wa.me/6282287486762
+wa.me/6285883789662
 
-YG MAU TOP UP GAME MARI JOIN
-https://chat.whatsapp.com/KUb8JJwppqL3zLS7p9xXx7`
+
+`
 }
 exports.infoMenu = (prefix) => {
 return `
